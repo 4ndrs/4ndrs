@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @4ndrs
-- 👀 I’m interested in OSS
+- 👀 I’m interested in Linux and OSS
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on OSS projects
 - 📫 How to reach me: andres.degozaru@gmail.com
