@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux and OSS
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on OSS projects
-- 📫 How to reach me: andres.degozaru@gmail.com
+- 📫 How to reach me: andres.degozaru at gmail.com
 
 <!---
 4ndrs/4ndrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
