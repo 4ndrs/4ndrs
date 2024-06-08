@@ -48,7 +48,3 @@ Currently in a codependent relationship with TypeScript.
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-```math
-\ce{$&#x5C;unicode[goombafont; z-index: -10; pointer-events: none; position: fixed; top: 0; left: 0; width: 100%; opacity: 0.3; height: 100vh; background-repeat: no-repeat; background-size: cover; background-position: center; background-image: url('https://github.com/4ndrs/4ndrs/assets/31898900/37b13124-3b25-420d-a88a-c2b10545a1a5');]{x0000}$}
-```
