@@ -1,3 +1,4 @@
+<!---
 ![hoshino ai](./pics/ai.gif)
 
 Software Developer, passionate about Linux and Japanese culture.
@@ -32,6 +33,8 @@ Currently in a codependent relationship with TypeScript.
 <picture>
     <img align="center" width="49%"  src="./achievements.svg" />
 </picture>
+--->
+
 <picture>
     <img align="center" width="49%"  src="./anilist.svg" />
 </picture>
