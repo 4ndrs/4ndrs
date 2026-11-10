@@ -157,6 +157,9 @@ jobs:
           plugin_anilist_shuffle: false
           plugin_anilist_limit: 5
           plugin_anilist_limit_characters: 44
+          plugins_errors_fatal: yes
+          retries: 3
+          retries_delay: 60
 
   playlist:
     runs-on: ubuntu-latest
